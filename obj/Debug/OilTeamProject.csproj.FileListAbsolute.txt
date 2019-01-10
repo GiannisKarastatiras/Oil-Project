@@ -1,0 +1,1125 @@
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.Initial.resources
+C:\Users\Perakos\source\repos\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.Initial.resources
+C:\Users\Vangelis\Desktop\SEMINAR\Oil Project Repository\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.Initial.resources
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypes.resources
+C:\Peri\BootCamp5\FinalProject\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.PopulateDataEmployees.resources
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.Initial.resources
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypes.resources
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.PopulateDataEmployees.resources
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\johnl\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.AddCustomers.resources
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.Initial.resources
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypes.resources
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.PopulateDataEmployees.resources
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.AddCustomers.resources
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\kekes\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.Initial.resources
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypes.resources
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.PopulateDataEmployees.resources
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.AddCustomers.resources
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Peri\BootCamp5\FinalProject\V3\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.initial.resources
+C:\Users\Delegater\Desktop\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.initial.resources
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypesDepRoles.resources
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Peri\BootCamp5\FinalProject\V4\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.initial.resources
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypesDepRoles.resources
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\Nikiforos\Desktop\Νέος φάκελος (2)\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\ApplicationInsights.config
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll.config
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\OilTeamProject.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\OilTeamProject.pdb
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\csc.exe.config
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\csc.rsp
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\csi.exe.config
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\csi.rsp
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.AppContext.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Console.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\vbc.exe.config
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\vbc.rsp
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\AutoMapper.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\EntityFramework.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\FoolproofValidation.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\PagedList.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.ValueTuple.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Http.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Razor.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\WebGrease.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\AutoMapper.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\EntityFramework.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\EntityFramework.SqlServer.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\PagedList.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\PagedList.Mvc.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Net.Http.Formatting.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.ValueTuple.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Http.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Http.WebHost.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Helpers.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Mvc.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Optimization.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.Razor.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Newtonsoft.Json.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Antlr3.Runtime.pdb
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.AI.Web.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csprojAssemblyReference.cache
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.initial.resources
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ShiftTypesDepRoles.resources
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.GenerateResource.cache
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.csproj.CopyComplete
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.dll
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.pdb
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.ConfigurationAboutPerformance.resources
+C:\Users\zoika\Documents\Giannis\Merge Oil Project\OilTeamProject\OilTeamProject\obj\Debug\OilTeamProject.Migrations.CorrectionOfConfiguration.resources
